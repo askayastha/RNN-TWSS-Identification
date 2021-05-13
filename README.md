@@ -1,2 +1,2 @@
 # RNN-TWSS
-Recurrent Neural Network based TWSS Identification
+Double Entendre Identification with Word Embeddings and Recurrent Neural Networks
